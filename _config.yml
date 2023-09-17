@@ -47,6 +47,7 @@ defaults:
     values:
     layout: default
     comments: true
+    shortname: 
 
 # Jekyll Compose default front matter
 jekyll_compose:
