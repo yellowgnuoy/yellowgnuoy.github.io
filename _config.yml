@@ -47,7 +47,7 @@ defaults:
     values:
     layout: default
     comments: true
-    shortname: 
+    shortname: yellowgnuoy-github-io
 
 # Jekyll Compose default front matter
 jekyll_compose:
