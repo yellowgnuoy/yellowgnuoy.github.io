@@ -46,6 +46,7 @@ defaults:
       path: ""
     values:
       layout: post
+      disqus:
       comments: true
 
 # Jekyll Compose default front matter
