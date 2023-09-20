@@ -13,7 +13,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: jiyoungLee # author name
   bio: >- # tell to the world
-    안녕하세요 꾸준한 개발자 이지영의 블로그입니다. 개인 공부한 내용을 정리해서 올리고 있습니다.
+    안녕하세요 꾸준한 개발자 이지영의 블로그입니다. <br> 개인 공부한 내용을 정리해서 올리고 있습니다. <br>
     <a href="https://github.com/yellowgnuoy" target="_blank" rel="noopener">@github</a>.
   username: username # general username
   github: github_username # github username
