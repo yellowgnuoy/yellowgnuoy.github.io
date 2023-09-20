@@ -34,6 +34,5 @@ var count = 0;
 # 변수의 선언과 할당
 
 | var | Function-scoped | 재선언 O | 재할당 O |
-| --- | --- | --- | --- |
 | let | {Block-scoped} | 재선언 X | 재할당 O |
 | const | {Block-scoped} | 재선언 X | 재할당 X |
